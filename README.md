@@ -37,7 +37,7 @@ An example project is included with this repo.  To run the example project, clon
 
 ## Author
 
-Krishna Agarwal, krishna.agarwal@grabtaxi.com
+Krishna Agarwal, krishna081994@gmail.com
 
 ## License
 
